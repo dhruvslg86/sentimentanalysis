@@ -1,7 +1,7 @@
 
 <img src="https://fortunedotcom.files.wordpress.com/2017/02/amazon.gif?w=1024"></img>
 
---------------
+--------
 # AMAZON PRODUCT AND REVIEW DATA
 ------------------------------------------------------------------------------------------------------------------------------  
 
@@ -15,7 +15,7 @@
 - Consist of all the products in 'Clothing, Shoes and Jewelry' category from Amazon. Each product is a json file in 'ProductSample.json'(each row is a json file).
 #### FIELDS:
 - 1 Asin - ID of the product, e.g. 0000031852
-- 2 Title - name of the product
+- 2 Title - name of the product.
 - 3 Price - price in US dollars (at time of crawl)
 - 4 ImUrl - url of the product image
 - 5 Related - related products (also bought, also viewed, bought together, buy after viewing)
